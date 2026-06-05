@@ -1,4 +1,6 @@
-CS @ UofT St. George (Specialist Co-op). I build AI tools, mostly ones I actually wanted to use. Check out my portfolio: https://www.parthivpaul.me/
+CS @ UofT St. George (Specialist Co-op). I build AI tools, mostly ones I actually wanted to use. 
+
+Check out my portfolio: https://www.parthivpaul.me/
 
 ---
 
