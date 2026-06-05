@@ -14,7 +14,7 @@ Right now I'm building **[Reflecta](https://github.com/parthiv-2006/Reflecta-Ai-
 AI lease analysis for Ontario renters. Upload your lease and get a full risk report cited to the Residential Tenancies Act in under 90 seconds. Hybrid BM25 + vector retrieval over a 2,372-chunk legal corpus, 161 passing tests, CI on every push.  
 `TypeScript` `Next.js 15` `pgvector` `Playwright`
 
-**[Gist](https://github.com/parthiv-2006/Gist)**  - Checkout my portfolio site for a Live Demo
+**[Gist](https://github.com/parthiv-2006/Gist) - Checkout my portfolio site for a Live Demo**  
 Chrome extension that streams plain-English explanations of any highlighted text, then builds a searchable knowledge base from what you save. 3,072-dimensional embeddings, RAG over your saved concepts, PCA-projected graph of semantic clusters.  
 `TypeScript` `FastAPI` `MongoDB Atlas` `Gemini`
 
