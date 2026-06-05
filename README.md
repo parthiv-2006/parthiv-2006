@@ -35,6 +35,6 @@ Habit tracker where your consistency grows a living creature. Three species, nin
 **Stack:** TypeScript · Python · Next.js · FastAPI · React · Express · PostgreSQL · MongoDB · RAG / vector search  
 **AI tools:** Claude Code · Cursor · Anthropic API · Gemini · Groq · Antigravity  
 **Links:** [parthivpaul.me](https://www.parthivpaul.me) · [LinkedIn](https://linkedin.com/in/parthiv-paul)  
-**Open to:** Fall 2026 SWE / AI engineering internships, Toronto or remote
+**Open to:** Fall 2026 SWE / AI engineering internships, Toronto/GTA/Remote
 
 Outside of this: basketball, lifting, eating my way through Toronto one neighbourhood at a time.
